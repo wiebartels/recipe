@@ -1,5 +1,4 @@
-Ingredients
-
+Ingredients:
     5 cups all-purpose flour
     1 teaspoon Fleischmann's RapidRise Instant Yeast
     2 teaspoons salt
