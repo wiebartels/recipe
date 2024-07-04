@@ -11,4 +11,7 @@
 - First item
 - Second item
 - Third item
-- Fourth item 
+- Fourth item
+
+
+![Looks delicious!](/Documents/DataScienceToolbox/recipe/images/recipe.png)
