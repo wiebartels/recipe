@@ -1,13 +1,13 @@
-# No-Knead Focaccia Bread Recipe
-### Source: https://www.fleischmannsyeast.com/recipe/no-knead-focaccia-bread/
+# No-Knead Focaccia Bread Recipe 
+### *Source: https://www.fleischmannsyeast.com/recipe/no-knead-focaccia-bread/*
 
-ordered list:
+**ordered list**:
 1. First item
 2. Second item
 3. Third item
 4. Fourth item
 
-unordered list:
+**unordered list**:
 - First item
 - Second item
 - Third item
