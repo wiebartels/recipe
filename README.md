@@ -14,4 +14,4 @@
 - Fourth item
 
 
-![Looks delicious!](/Documents/DataScienceToolbox/recipe/images/recipe.png)
+![Looks delicious!](images/recipe.png)
